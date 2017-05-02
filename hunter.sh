@@ -9,11 +9,11 @@
 VERSION=2.1
 TYPE=Beta
 data=$(date +"%T, %d/%m/%y, %A")
-
+usuario=$(who)
 
 
 clear
-echo Olá Senhor Douglas, executando tarefa!
+echo Olá Senhor $usuario, executando tarefa!
 echo Processando...
 sleep 1
 
