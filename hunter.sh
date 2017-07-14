@@ -1,7 +1,7 @@
 #!/bin/bash
 ###################################
 #Autor: Douglas Medici            #
-#Data de Criação:v1.0 09/04/2017  #
+#Data de Criação:v1.0 01/04/2017  #
 #Revisão: v1 10/04/2017           #
 #E-mail: douglas.medici@gmail.com #
 ###################################
